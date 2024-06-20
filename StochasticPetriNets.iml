@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/FastDTW.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/IntervalTree.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javassist.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/JRI.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/JRIEngine.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json-simple-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/REngine.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/simple-xml-2.7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/SparseBitSet-1.0.jar!/" />
+    <conelement value="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=InductiveMiner&amp;ivyXmlPath=ivy.xml&amp;confs=*&amp;ivySettingsPath=ivysettings.xml&amp;loadSettingsOnDemand=false&amp;ivyUserDir=&amp;propertyFiles=" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/tests/src-test" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="IvyIDEA" name="IvyIDEA">
+      <configuration ivyFile="$MODULE_DIR$/ivy.xml" useProjectSettings="true" useCustomIvySettings="true" ivySettingsFile="" onlyResolveSelectedConfigs="false">
+        <propertiesSettings>
+          <propertiesFiles includeProjectLevelPropertiesFiles="true" />
+        </propertiesSettings>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/src-test" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=InductiveMiner&amp;ivyXmlPath=ivy.xml&amp;confs=*&amp;ivySettingsPath=ivysettings.xml&amp;loadSettingsOnDemand=false&amp;ivyUserDir=&amp;propertyFiles=" level="application" />
+    <orderEntry type="module-library">
+      <library name="FastDTW.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/FastDTW.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="IntervalTree.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/IntervalTree.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javassist.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JRI.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/JRI.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JRIEngine.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/JRIEngine.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-simple-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json-simple-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="REngine.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/REngine.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="simple-xml-2.7.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/simple-xml-2.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="SparseBitSet-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/SparseBitSet-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
